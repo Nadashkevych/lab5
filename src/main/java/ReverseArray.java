@@ -10,4 +10,8 @@ public class ReverseArray {
         }
         return newArray;
     }
+    //zmiany w kodzie:
+    //1) usunieto metode main
+    //2) caly kod klasy zapisano do metody, ktora bedzie testowana
+    //3) usunieto Scaner, bo w tescie nie jest potrzebny
 }

@@ -12,4 +12,9 @@ public class SequenceSearch {
         }
         return sequenceFound;
     }
+    //zmiany w kodzie:
+    //1) usunieto metode main
+    //2) caly kod klasy zapisano do metody, ktora bedzie testowana
+    //3) usunieto Scaner i wprowadzenie liczb do tabeli przez uzytkownika,
+    // bo w tescie nie jest to potrzebne
 }
