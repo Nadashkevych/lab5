@@ -58,5 +58,5 @@ public class Tests {
     public void ArrayShouldBeEqualToReverse() {
         Assertions.assertArrayEquals(new int[]{1, 3, 5, 7}, rArray.reverseArray(new int[]{7, 5, 3, 1}));
     }
-
+    
 }
